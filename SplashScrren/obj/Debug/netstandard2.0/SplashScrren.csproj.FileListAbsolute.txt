@@ -1,0 +1,15 @@
+C:\Users\AthiliSanthoshKumar\Desktop\SplashScrren\SplashScrren\bin\Debug\netstandard2.0\SplashScrren.deps.json
+C:\Users\AthiliSanthoshKumar\Desktop\SplashScrren\SplashScrren\bin\Debug\netstandard2.0\SplashScrren.dll
+C:\Users\AthiliSanthoshKumar\Desktop\SplashScrren\SplashScrren\bin\Debug\netstandard2.0\SplashScrren.pdb
+C:\Users\AthiliSanthoshKumar\Desktop\SplashScrren\SplashScrren\obj\Debug\netstandard2.0\SplashScrren.csproj.AssemblyReference.cache
+C:\Users\AthiliSanthoshKumar\Desktop\SplashScrren\SplashScrren\obj\Debug\netstandard2.0\SplashScrren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AthiliSanthoshKumar\Desktop\SplashScrren\SplashScrren\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\AthiliSanthoshKumar\Desktop\SplashScrren\SplashScrren\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\AthiliSanthoshKumar\Desktop\SplashScrren\SplashScrren\obj\Debug\netstandard2.0\SplashScrren.AssemblyInfoInputs.cache
+C:\Users\AthiliSanthoshKumar\Desktop\SplashScrren\SplashScrren\obj\Debug\netstandard2.0\SplashScrren.AssemblyInfo.cs
+C:\Users\AthiliSanthoshKumar\Desktop\SplashScrren\SplashScrren\obj\Debug\netstandard2.0\SplashScrren.csproj.CoreCompileInputs.cache
+C:\Users\AthiliSanthoshKumar\Desktop\SplashScrren\SplashScrren\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\AthiliSanthoshKumar\Desktop\SplashScrren\SplashScrren\obj\Debug\netstandard2.0\SplashScrren.dll
+C:\Users\AthiliSanthoshKumar\Desktop\SplashScrren\SplashScrren\obj\Debug\netstandard2.0\refint\SplashScrren.dll
+C:\Users\AthiliSanthoshKumar\Desktop\SplashScrren\SplashScrren\obj\Debug\netstandard2.0\SplashScrren.pdb
+C:\Users\AthiliSanthoshKumar\Desktop\SplashScrren\SplashScrren\obj\Debug\netstandard2.0\ref\SplashScrren.dll
